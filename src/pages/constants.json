@@ -1,0 +1,11 @@
+{
+  "initialPopulation": 100,
+  "initialFood": 100,
+  "foodProductionRate": 0.1,
+  "energyConsumptionRate": 0.001,
+  "bornEnergyThreshold": 3,
+  "bornEnergyConsumption": 2,
+  "speedFlucuation": 2,
+  "senseFlucuation": 2,
+  "initialSense": 1
+}
